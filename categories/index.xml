@@ -1,21 +1,21 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Categories - Category - 网络资源</title>
+        <title>Categories - Category - 网络资源汇</title>
         <link>https://luzhiguo715.github.io/categories/</link>
-        <description>Categories - Category - 网络资源</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</lastBuildDate><atom:link href="https://luzhiguo715.github.io/categories/" rel="self" type="application/rss+xml" /><item>
+        <description>Categories - Category - 网络资源汇</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 06 Mar 2023 21:29:01 &#43;0800</lastBuildDate><atom:link href="https://luzhiguo715.github.io/categories/" rel="self" type="application/rss+xml" /><item>
     <title>Documentation</title>
     <link>https://luzhiguo715.github.io/categories/documentation/</link>
-    <pubDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</pubDate>
-    <author>网络资源</author>
+    <pubDate>Mon, 06 Mar 2023 21:29:01 &#43;0800</pubDate>
+    <author>网络资源汇</author>
     <guid>https://luzhiguo715.github.io/categories/documentation/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>Markdown</title>
     <link>https://luzhiguo715.github.io/categories/markdown/</link>
-    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
-    <author>网络资源</author>
+    <pubDate>Wed, 01 Mar 2023 21:57:40 &#43;0800</pubDate>
+    <author>网络资源汇</author>
     <guid>https://luzhiguo715.github.io/categories/markdown/</guid>
     <description><![CDATA[]]></description>
 </item>
